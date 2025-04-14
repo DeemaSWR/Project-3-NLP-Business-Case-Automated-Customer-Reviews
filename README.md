@@ -71,7 +71,7 @@ To reproduce the results:
 ---
 
 ## 🔗 Google Drive (Models & Output Files)
-Add your Google Drive link here:  
+Check Google Drive link for all files:  
 `[[Insert Google Drive Link]](https://drive.google.com/drive/folders/1azftjCEttxldx-SDHQqfhvzsTbTz7njk?usp=sharing)
 `
 .
